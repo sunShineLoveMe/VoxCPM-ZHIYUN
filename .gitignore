@@ -1,0 +1,22 @@
+# VoxCPM model artifacts
+models/
+*.pth
+*.bin
+
+# Cache directories
+**/.cache/
+
+# Python virtual environments
+.venv/
+venv/
+marker-env/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+
